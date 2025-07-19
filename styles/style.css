@@ -23,7 +23,7 @@
 .collage1{
   height: 50%;
   display:flex;
-  gap:5px;
+  gap:10px;
 }
 .row div{  
   flex:1;
@@ -40,6 +40,9 @@
 .row div{  
   display:flex;
   flex-direction: column;
+}
+.m{
+  margin-bottom:10px;
 }
 
   
